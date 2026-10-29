@@ -5,3 +5,5 @@ Wersja 3 _ Trzecia zmiana - wersja 29.10.2026 15:29
 Wersja 4 - Czwarta zmiana - wersja 29.10.2026 15:30
 
 Wersja 5 - Piąta zmiana - wersja 29.10.2026 15:31
+
+Wersja 6
